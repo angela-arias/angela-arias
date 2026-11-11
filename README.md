@@ -160,14 +160,7 @@ Analista de Datos BI Junior con experiencia práctica utilizando **SQL, Python, 
 - **Inglés:** intermedio alto (C1)
 - **Español:** nativo
 
----
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/angela-arias-analytics">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:angelaarias3193@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
