@@ -20,4 +20,16 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 </p>
 
 ### 🛠 &nbsp;Tecnologías y herramientas con las que trabajo
+</p>
+
+![Python](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logoColor=green)
+![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge&logoColor=green)
+![Pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logoColor=green)
+![Seaborn](https://img.shields.io/badge/seaborn-red?style=for-the-badge&logoColor=green)
+![Matplotlib](https://img.shields.io/badge/matplotlib-yellow?style=for-the-badge&logoColor=green)
+![Scipy](https://img.shields.io/badge/scipy-brightgreen?style=for-the-badge&logoColor=green)
+![Numpy](https://img.shields.io/badge/numpy-orange?style=for-the-badge&logoColor=green)
+![Power BI](https://img.shields.io/badge/power%20BI-blue?style=for-the-badge&logoColor=green)
+![Tableau](https://img.shields.io/badge/tableau-red?style=for-the-badge&logoColor=green)
+
 
