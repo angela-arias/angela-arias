@@ -12,7 +12,7 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 - 🎯 Metas Futuras: Profundizar más en las herramientas para ser una mejor analista.
 
   
-- 📫 Social links
+### 📫 Social links
 <p>
 	<a href="mailto:angelaarias3193@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/angela-arias"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
