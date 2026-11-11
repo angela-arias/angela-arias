@@ -44,7 +44,7 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 ![6](https://img.shields.io/badge/orientaci%C3%B3n%20a%20resultados-darkblue?style=for-the-badge&logoColor=green)
 
 
-### 🚀 Proyectos
+### ✨ Mi hoja de vida
 </p>
-
+[Descargar documento de pdf](./nombre-de-tu-archivo.docx)
 
