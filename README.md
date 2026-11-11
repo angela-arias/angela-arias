@@ -31,5 +31,14 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 ![Numpy](https://img.shields.io/badge/numpy-orange?style=for-the-badge&logoColor=green)
 ![Power BI](https://img.shields.io/badge/power%20BI-blue?style=for-the-badge&logoColor=green)
 ![Tableau](https://img.shields.io/badge/tableau-red?style=for-the-badge&logoColor=green)
+</p>
 
+### 🛠 &nbsp;habilidades blandas
+</p>
 
+![1](https://img.shields.io/badge/an%C3%A1lisis%20de%20datos-darkblue?style=for-the-badge&logoColor=green)
+![2](https://img.shields.io/badge/atenci%C3%B3n%20al%20detalle-darkblue?style=for-the-badge&logoColor=green)
+![3](https://img.shields.io/badge/resoluci%C3%B3n%20de%20problemas-darkblue?style=for-the-badge&logoColor=green)
+![4](https://img.shields.io/badge/comunicaci%C3%B3n%20efectiva-darkblue?style=for-the-badge&logoColor=green)
+![5](https://img.shields.io/badge/trabajo%20en%20equipo-darkblue?style=for-the-badge&logoColor=green)
+![6](https://img.shields.io/badge/orientaci%C3%B3n%20a%20resultados-darkblue?style=for-the-badge&logoColor=green)
