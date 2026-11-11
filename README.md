@@ -53,7 +53,6 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 <p align="center">
   📍 Medellín, Colombia · 
   📧 <a href="mailto:angelaarias3193@gmail.com">angelaarias3193@gmail.com</a> · 
-  📱 (+57) 300-629-59-26 · 
   💼 <a href="https://www.linkedin.com/in/angela-arias-analytics">LinkedIn</a>
 </p>
 
