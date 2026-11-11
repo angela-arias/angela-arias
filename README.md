@@ -46,5 +46,5 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 
 ### ✨ Mi hoja de vida
 </p>
-[Descargar documento de pdf](./nombre-de-tu-archivo.docx)
+[📄 Ver documento PDF](./Mi hoja de vida.pdf)
 
