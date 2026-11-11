@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="mujer.jfif" width="30%">
 <h1>
   Hola soy Angela Arias 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -42,3 +42,9 @@ Contadora Pública y Analista de Datos. Uno mi formación financiera con habilid
 ![4](https://img.shields.io/badge/comunicaci%C3%B3n%20efectiva-darkblue?style=for-the-badge&logoColor=green)
 ![5](https://img.shields.io/badge/trabajo%20en%20equipo-darkblue?style=for-the-badge&logoColor=green)
 ![6](https://img.shields.io/badge/orientaci%C3%B3n%20a%20resultados-darkblue?style=for-the-badge&logoColor=green)
+
+
+### 🚀 Proyectos
+</p>
+
+
